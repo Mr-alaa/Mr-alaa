@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for open so
 - 🌱 I’m currently learning [Technology or Skill]
 - 👯 I’m looking to collaborate on [Open Source Project]
 - 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [alaaalrma@gmail.com]
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## 🛠️ Technologies & Tools
