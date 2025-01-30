@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for open so
 - 🔭 I’m currently working on [Your Current Project]
 - 🌱 I’m currently learning [Technology or Skill]
 - 👯 I’m looking to collaborate on [Open Source Project]
-- 💬 Ask me about [Your Expertise]
+- 💬 Ask me about [I like adventure]
 - 📫 How to reach me: [alaaalrma@gmail.com]
-- ⚡ Fun fact: [Something Interesting About You]
+- ⚡ Fun fact: [I love drawing]
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
